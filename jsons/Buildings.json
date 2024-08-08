@@ -1,1 +1,9 @@
-
+[
+  {
+    "name": "MoreFaith25",
+    "cost": 0,
+    "uniques": [
+      "Unbuildable <for [AI player]>",
+      "faith: 25" ]
+  }
+]
