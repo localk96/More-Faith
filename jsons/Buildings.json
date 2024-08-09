@@ -3,7 +3,7 @@
     "name": "MoreFaith25",
     "cost": 0,
     "uniques": [
-      "Unbuildable <for [AI player]>",
-      "faith: 25" ]
+      "Unbuildable <for [AI player]>"],
+      "faith": 25  
   }
 ]
